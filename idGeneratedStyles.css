@@ -72,6 +72,13 @@ span._1_century-italica {
 	font-style:italic;
 	font-weight:normal;
 }
+
+span.CharOverride-1 {
+	font-family: NewCenturySchlbk, serif !important;
+	font-size: 14px !important;
+	line-height: 1.6 !important;
+}
+
 p.ParaOverride-1 {
 	margin-bottom:6px;
 }
